@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    padding: 16px;
+    /* position: fixed;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.1); */
+}
+.home a {
+    display: flex;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.home a img {
+    height: 80px;
+}
+
+.home a h1 {
+    margin-left: 24px;
+}
+
