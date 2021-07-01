@@ -19,7 +19,7 @@
         </header>
 
         <main>
-            <div class="container">
+            <div class="containerMain">
                 <div class="card-cont">
                 
                     <?php foreach ($albums as $album) { ?>
@@ -44,7 +44,7 @@
         </main>
 
         <footer>
-            <small>footer</small>
+            <?php include 'partials/template/footer.php' ?>
         </footer>
         
 

@@ -8,11 +8,11 @@
     <link rel="stylesheet" href="css/headerStyle.css">
 </head>
 <body>
-    <div class="container">
+    <div class="containerHead">
         <div class="home">
             <a href="#">
                 <img src="https://i.ibb.co/n6SbsZY/1-Risorsa-1.png" alt="logo">
-                <h1>Puccio play</h1>
+                <h1>play</h1>
             </a>
         </div>
     </div>
